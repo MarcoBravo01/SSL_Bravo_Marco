@@ -1,1 +1,1 @@
-# En este programa desarrollamos un codigo simple para imprimir "Hola Mundo".
+# En este programa desarrollamos un codigo simple para imprimir el mensaje: "Hola Mundo".
